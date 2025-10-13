@@ -213,6 +213,7 @@ Average scheduled shipping days (2.93) were consistently lower than actual shipp
 
 Standard Class was the most-used shipping method but showed the worst delivery performance after the first class shipping mode.
 
+![Delivery Performance chart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Delivery%20Performance%20bar%20chart.png?raw=true)
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
