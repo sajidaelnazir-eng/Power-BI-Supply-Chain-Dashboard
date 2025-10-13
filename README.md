@@ -199,15 +199,19 @@ The top customer (Mary Smith) contributed 13% of total revenue and made over 7,9
 
 The Consumer segment dominated both order volume and revenue (over 51%), followed by Corporate and Home Office.
 
+![customer segment](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Orders%20and%20Revenue%20by%20customer%20segment.png?raw=true)
+
 Geographical visuals show most customers are based in the United States, with dense clusters in California, Texas, and New York.
 
 🚚 Shipping & Delivery Insights
 
 Only 18% of orders were delivered on time, while 55% were late — highlighting major fulfillment issues.
 
+Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
+
 Standard Class was the most-used shipping method but showed the worst delivery performance after the first class shipping mode.
 
-Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
