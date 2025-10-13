@@ -187,6 +187,8 @@ Total revenue reached $33.05M, with an overall profit margin of 12%.
 
 A sharp decline in revenue and profit occurred at the end of 2017, likely due to seasonal or operational challenges.
 
+![Revenue trending cgart](
+
 Some high-revenue products (e.g., Nike Football Cleats) had relatively low profit, indicating potential pricing or cost issues.
 
 Advanced DAX was used to dynamically calculate KPIs based on the last available month to avoid misleading blanks caused by inactive products.
