@@ -194,6 +194,7 @@ Advanced DAX was used to dynamically calculate KPIs based on the last available 
 👥 Customer Insights
 
 The top customer (Mary Smith) contributed 13% of total revenue and made over 7,900 orders, signaling over-reliance on a single customer.
+
 ![Top Customers table](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Customer%20insights%20(Top%20customers%20table).png?raw=true)
 
 The Consumer segment dominated both order volume and revenue (over 51%), followed by Corporate and Home Office.
