@@ -194,6 +194,7 @@ Advanced DAX was used to dynamically calculate KPIs based on the last available 
 👥 Customer Insights
 
 The top customer (Mary Smith) contributed 13% of total revenue and made over 7,900 orders, signaling over-reliance on a single customer.
+![Top Customers table](
 
 The Consumer segment dominated both order volume and revenue (over 51%), followed by Corporate and Home Office.
 
@@ -206,6 +207,8 @@ Only 18% of orders were delivered on time, while 55% were late — highlighting 
 Standard Class was the most-used shipping method but showed the worst delivery performance after the first class shipping mode.
 
 Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Recommendations & Next Steps
 
