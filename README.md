@@ -203,6 +203,8 @@ The Consumer segment dominated both order volume and revenue (over 51%), followe
 
 Geographical visuals show most customers are based in the United States, with dense clusters in California, Texas, and New York.
 
+![customer distribution map](9https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Customers%20distribution%20map.png?raw=true)
+
 🚚 Shipping & Delivery Insights
 
 Only 18% of orders were delivered on time, while 55% were late — highlighting major fulfillment issues.
