@@ -188,6 +188,7 @@ Total revenue reached $33.05M, with an overall profit margin of 12%.
 A sharp decline in revenue and profit occurred at the end of 2017, likely due to seasonal or operational challenges.
 
 ![Revenue trending cgart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Revenue%20trending%20over%20time%20line%20chart.png?raw=true)
+
 ![Profit trending chart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Profit%20trending%20over%20time%20line%20chart.png?raw=true)
 
 Some high-revenue products (e.g., Nike Football Cleats) had relatively low profit, indicating potential pricing or cost issues.
