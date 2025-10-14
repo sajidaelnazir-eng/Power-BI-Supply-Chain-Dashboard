@@ -191,7 +191,10 @@ A sharp decline in revenue and profit occurred at the end of 2017, likely due to
 
 ![Profit trending chart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Profit%20trending%20over%20time%20line%20chart.png?raw=true)
 
-Some high-revenue products (e.g., Nike Football Cleats) had relatively low profit, indicating potential pricing or cost issues.
+
+Some high-volume, low-margin products show signs of inefficiency. For instance:
+
+Nike Football Cleats received 18,783 orders but generated only $12K profit, representing a 2.4% profit margin.
 
 Advanced DAX was used to dynamically calculate KPIs based on the last available month to avoid misleading blanks caused by inactive products.
 
@@ -258,3 +261,7 @@ Improve on-time delivery rate
 The current on-time delivery rate stands at only 18%.
 
 Prioritize logistics coordination and reduce the gap between scheduled and actual shipping days to improve service levels.
+
+
+👉 [Full interactive dashboards will be available soon on GitHub Pages.]
+
