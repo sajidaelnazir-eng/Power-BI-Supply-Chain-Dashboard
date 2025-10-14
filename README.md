@@ -183,42 +183,41 @@ Regional Analysis shows Western Europe and the US West having the highest volume
 ## Insights Deep Dive
 🛍️ Sales Insights
 
-Total revenue reached $33.05M, with an overall profit margin of 12%.
+- Total revenue reached $33.05M, with an overall profit margin of 12%.
 
-A sharp decline in revenue and profit occurred at the end of 2017, likely due to seasonal or operational challenges.
+- A sharp decline in revenue and profit occurred at the end of 2017, likely due to seasonal or operational challenges.
 
 ![Revenue trending cgart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Revenue%20trending%20over%20time%20line%20chart.png?raw=true)
 
 ![Profit trending chart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Profit%20trending%20over%20time%20line%20chart.png?raw=true)
 
-
-Some high-volume, low-margin products show signs of inefficiency. For instance:
+- Some high-volume, low-margin products show signs of inefficiency. For instance:
 
 Nike Football Cleats received 18,783 orders but generated only $12K profit, representing a 2.4% profit margin.
 
-Advanced DAX was used to dynamically calculate KPIs based on the last available month to avoid misleading blanks caused by inactive products.
+- Advanced DAX was used to dynamically calculate KPIs based on the last available month to avoid misleading blanks caused by inactive products.
 
 👥 Customer Insights
 
-The top customer (Mary Smith) contributed 13% of total revenue and made over 7,900 orders, signaling over-reliance on a single customer.
+- The top customer (Mary Smith) contributed 13% of total revenue and made over 7,900 orders, signaling over-reliance on a single customer.
 
 ![Top Customers table](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Customer%20insights%20(Top%20customers%20table).png?raw=true)
 
-The Consumer segment dominated both order volume and revenue (over 51%), followed by Corporate and Home Office.
+- The Consumer segment dominated both order volume and revenue (over 51%), followed by Corporate and Home Office.
 
 ![customer segment](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Orders%20and%20Revenue%20by%20customer%20segment.png?raw=true)
 
-Geographical visuals show most customers are based in the United States, with dense clusters in California, Texas, and New York.
+- Geographical visuals show most customers are based in the United States, with dense clusters in California, Texas, and New York.
 
 ![customer distribution map](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Customers%20distribution%20map.png?raw=true)
 
 🚚 Shipping & Delivery Insights
 
-Only 18% of orders were delivered on time, while 55% were late — highlighting major fulfillment issues.
+- Only 18% of orders were delivered on time, while 55% were late — highlighting major fulfillment issues.
 
-Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
+- Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
 
-Standard Class was the most-used shipping method but showed the worst delivery performance after the first class shipping mode.
+- Standard Class was the most-used shipping method but showed the worst delivery performance after the first class shipping mode.
 
 ![Delivery Performance chart](https://github.com/sajidaelnazir-eng/Power-BI-Supply-Chain-Dashboard/blob/main/Delivery%20Performance%20bar%20chart.png?raw=true)
 
@@ -229,38 +228,37 @@ Standard Class was the most-used shipping method but showed the worst delivery p
 
 🛍️ Sales Optimization
 
-Identify low-value, high-volume products
+- Identify low-value, high-volume products
 
-Use scatter plots or matrix visuals to detect products with high sales volume but low revenue and profit margins. These products typically generate a large number of orders yet contribute little to overall profitability.
+- Use scatter plots or matrix visuals to detect products with high sales volume but low revenue and profit margins. These products typically generate a large number of orders yet contribute little to overall profitability.
 
-Investigating these items can uncover pricing inefficiencies or high cost structures. Consider reviewing pricing strategies or renegotiating supplier terms to improve margins.
+- Investigating these items can uncover pricing inefficiencies or high cost structures. Consider reviewing pricing strategies or renegotiating supplier terms to improve margins.
 
 👥 Customer Strategy
 
-Reduce over-reliance on top customers
+- Reduce over-reliance on top customers
 
 Mary Smith alone contributes over 13% of total revenue. To mitigate risk, implement customer diversification strategies and loyalty programs that incentivize mid-tier customers to increase their share.
 
-Explore untapped segments and regions
+- Explore untapped segments and regions
+  
 The "Home Office" segment has the smallest share of orders and revenue. Similarly, several states have low customer density. 
 
-Consider targeted marketing campaigns or localized promotions to drive growth in underrepresented areas.
+- Consider targeted marketing campaigns or localized promotions to drive growth in underrepresented areas.
 
 🚚 Delivery Improvements
 
-Optimize shipping for performance and speed
+- Optimize shipping for performance and speed
 
-While Standard Class is the most used shipping mode, it also shows high delivery delays.
+  While Standard Class is the most used shipping mode, it also shows high delivery delays.
 
-On the other hand, First Class has the worst on-time performance ratio.
+ On the other hand, First Class has the worst on-time performance ratio.
 
-A detailed review of carrier partnerships and delivery workflows is needed to boost speed and reliability.
+- A detailed review of carrier partnerships and delivery workflows is needed to boost speed and reliability.
 
-Improve on-time delivery rate
+- Improve on-time delivery rate. The current on-time delivery rate stands at only 18%.
 
-The current on-time delivery rate stands at only 18%.
-
-Prioritize logistics coordination and reduce the gap between scheduled and actual shipping days to improve service levels.
+- Prioritize logistics coordination and reduce the gap between scheduled and actual shipping days to improve service levels.
 
 
 👉 [Full interactive dashboards will be available soon on GitHub Pages.]
