@@ -2,8 +2,7 @@
 Supply Chain Sales, Customer, and Shipping Performance Dashboard using Power BI
 
 ## Background & Objective 
-In today’s competitive supply chain environment, businesses must rely on data-driven insights to optimize performance across sales, customer management, and delivery operations.
-This Power BI dashboard was developed to provide a comprehensive end-to-end overview of the supply chain — from sales generation to customer behavior and final shipment delivery.
+This Power BI dashboard was developed to provide a comprehensive end-to-end overview of the supply chain from sales generation to customer behavior and final shipment delivery.
 
 The project focuses on three major analytical domains:
 
@@ -81,7 +80,7 @@ It consists of a central Fact Table (Orders Data) that holds transactional metri
 
 •	Department Lookup (included in schema, but not used in visualizations)
 
-All relationships were set to active, except for the Calendar table which has two relationships with the Fact Table—one active (Order Date) and one inactive (Shipping Date), enabling flexibility in time-based analysis when needed.
+All relationships were set to active, except for the Calendar table which has two relationships with the Fact Table, one active (Order Date) and one inactive (Shipping Date), enabling flexibility in time-based analysis when needed.
 
 📌 Modeling Highlights & DAX Logic
 
@@ -206,7 +205,7 @@ Nike Football Cleats received 18,783 orders but generated only $12K profit, repr
 
 🚚 Shipping & Delivery Insights
 
-- Only 18% of orders were delivered on time, while 55% were late — highlighting major fulfillment issues.
+- Only 18% of orders were delivered on time, while 55% were late, highlighting major fulfillment issues.
 
 - Average scheduled shipping days (2.93) were consistently lower than actual shipping days (3.5), indicating persistent delays.
 
