@@ -97,15 +97,8 @@ Special attention was paid to:
 
 Key KPIs modeled include:
 
-| Metric                                          | Description                                                                                |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
-|  Total Revenue, Total Profit, Total Orders      | Core financial and volume metrics                                                          |
-|  Profit Margin                                  | Calculated using dynamic DAX                                                               |
-|  Last Available Month Revenue                   | Adjusts based on latest non-blank sales by filter context                                  |
-|  Top Customer by Revenue                        | Extracted using `TOPN` and `MAXX`                                                          |
-|  Top Customer Contribution %                    | Shows how dominant the top customer is in total revenue                                    |
-|  On-Time Delivery %  vs Late Delivery %         | Calculated from delivery status field                                                      |
-|  Delivery Trend Over Time                       | Combines inactive relationship with parameterized visuals (e.g., slicers or chart toggles) |
+Total Revenue, Total Profit, Total Orders, Profit Margin (%), Last Available Month Revenue, Top Customer by Revenue
+, Top Customer Contribution % , On-Time Delivery %, Late Delivery %,  Delivery Trend Over Time.
 ________________________________________
 
 
