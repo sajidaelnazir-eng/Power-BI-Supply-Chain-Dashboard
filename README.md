@@ -114,6 +114,7 @@ Customer analysis identifies 21K unique customers, with the Corporate segment ge
 Delivery performance reveals operational challenges, with only 18% of orders delivered on time and 55% delivered late. Standard Class shipping, despite being the most used mode, shows high delay rates, suggesting misalignment between shipping strategy and service performance.
 
 Overall, the analysis highlights clear opportunities to improve profit margins, reduce customer dependency risk, and optimize shipping operations to enhance service levels and customer satisfaction.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## Insights Deep Dive
