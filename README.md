@@ -2,27 +2,20 @@
 Supply Chain Sales, Customer, and Shipping Performance Dashboard using Power BI
 
 ## Background & Objective 
-This Power BI dashboard was developed to provide a comprehensive end-to-end overview of the supply chain from sales generation to customer behavior and final shipment delivery.
 
-The project focuses on three major analytical domains:
+This Power BI dashboard provides an end-to-end view of supply chain performance, covering sales generation, customer behavior, and shipment delivery.
 
-🛍️ Sales Performance
+The objective is to answer practical business questions around revenue, profitability, customer value, and delivery efficiency—and highlight where performance gaps exist across the supply chain.
 
-- To analyze total revenue, profit, profit margin, and total orders. 
-- Identify top-performing products that drive sales.
-- Track revenue and profit trends over time to uncover seasonal or performance-based patterns.
+The analysis focuses on three areas:
 
-👥 Customer Insights
+Sales Performance: revenue, profit, margin, and product-level performance to identify profit drivers and leakage.
 
-- To identify the top customers contributing to revenue, measure their relative impact, and segment customers based on order and revenue behavior.
-- This analysis helps understand which customer groups (Consumer, Corporate, or Home Office) are the most valuable and consistent.
+Customer Insights: customer contribution, segmentation, and concentration to understand value and risk.
 
-🚚 Shipping & Delivery Performance
+Shipping & Delivery Performance: on-time delivery, delays, and shipping mode efficiency to evaluate operational reliability.
 
-- To evaluate operational efficiency by measuring delivery timeliness, comparing on-time vs. late deliveries, and analyzing average shipping times across shipping modes.
-- It also identifies the most used and fastest shipping methods, helping improve delivery strategy and customer satisfaction.
-
-Overall, the objective of this dashboard is to turn raw supply chain data into actionable insights that empower management to enhance profitability, customer retention, and delivery performance efficiency.
+Overall, the dashboard is designed to support data-driven decision-making by turning raw supply chain data into clear, actionable insights.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -112,64 +105,15 @@ This ensures that KPI cards and trend visuals stay relevant, even if the most re
 
 ## Executive Summary
 
-This Power BI project delivers a comprehensive view of sales, customer behavior, and shipping performance for a global supply chain business, based on a cleaned dataset of 181K rows spanning from 2015 to 2018.
+This project analyzes sales, customer behavior, and shipping performance using a cleaned dataset of 181K transactions from 2015 to 2018. The goal is to assess profitability, customer value, and delivery efficiency across the supply chain.
 
-Across three interactive dashboards—Sales Performance, Customer Insights, and Shipping & Delivery—the analysis reveals critical trends, performance KPIs, and optimization opportunities.
+Sales analysis shows total revenue of $33.05M with an overall profit margin of 12%. While several product categories generate high sales volume, some high-selling products contribute disproportionately low profit, indicating margin inefficiencies at the SKU level.
 
-🛍️ Sales Performance Highlights
+Customer analysis identifies 21K unique customers, with the Corporate segment generating the largest share of revenue. However, a single customer contributes 13% of total revenue, highlighting a potential concentration risk that could impact revenue stability.
 
-Total Revenue: $33.05M
+Delivery performance reveals operational challenges, with only 18% of orders delivered on time and 55% delivered late. Standard Class shipping, despite being the most used mode, shows high delay rates, suggesting misalignment between shipping strategy and service performance.
 
-Total Orders: 66K
-
-Total Profit: $3.97M
-
-Overall Profit Margin: 12%
-
- Key insights include:
-
-Revenue and Profit Trends show strong seasonality and a decline in late 2017–2018, possibly due to product lifecycle or market saturation.
-
-Top Performing Categories like Fishing, Cleats, and Camping contributed the most to profit.
-
-Product-Level Performance identified high-selling products with low profit (e.g., Nike Football Cleats) and vice versa, guiding SKU-level pricing strategy.
-
-Last Available Month Revenue dynamically updates based on selection, with comparative metrics to previous months.
-
-👥 Customer Behavior & Segmentation
-
-Total Unique Customers: 21K
-
-Avg Orders per Customer: 3.18
-
-Avg Revenue per Customer: $1.6K
-
- Behavioral insights:
-
-The Corporate Segment generates the highest revenue share (51.93%) and order volume.
-
-Mary Smith alone accounts for 13% of total revenue, highlighting significant customer concentration risk.
-
-Geographic Analysis across states and countries shows the United States as the primary market, with key states contributing disproportionately to sales.
-
-🚚 Shipping & Delivery Performance
-
-Delivery metrics revealed potential operational inefficiencies:
-
-On-Time Delivery %: 18%
-
-Late Delivery %: 55%
-
-Avg Scheduled Days: 2.93 | Actual Shipping Days: 3.5
-
- Key findings:
-
-Standard Class is the most frequently used shipping mode, but shows high late delivery rates, impacting overall SLA adherence.
-
-Same Day Delivery has the best on-time performance but is underutilized.
-
-Regional Analysis shows Western Europe and the US West having the highest volume of late deliveries.
-
+Overall, the analysis highlights clear opportunities to improve profit margins, reduce customer dependency risk, and optimize shipping operations to enhance service levels and customer satisfaction.
 -------------------------------------------------------------------------------------------------------------------------------------
 
 ## Insights Deep Dive
