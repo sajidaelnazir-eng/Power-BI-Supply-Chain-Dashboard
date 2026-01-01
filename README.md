@@ -198,5 +198,7 @@ The "Home Office" segment has the smallest share of orders and revenue. Similarl
 - Prioritize logistics coordination and reduce the gap between scheduled and actual shipping days to improve service levels.
 
 
-👉 [Full interactive dashboards will be available soon on GitHub Pages.]
+👉 [👉 Dashboard visuals and insights are shared in this LinkedIn post:
+https://www.linkedin.com/posts/sajida-data-analyst_powerbi-dataanalytics-analytics-activity-7399009037335556096-V5cG
+]
 
