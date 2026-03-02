@@ -205,3 +205,21 @@ This short demo showcases dashboard interaction including filtering, KPI updates
 ▶️ Watch the demo here:
 [View Dashboard Demo](https://drive.google.com/file/d/10YQgm7gFZ8FE_N0oMg4p9yWanmObK2Lz/view?usp=drive_link)
 
+## ## Full Dashboard Views
+
+### Sales Performance Dashboard
+![Sales Profit](screenshots/sales_profit.png)
+![Sales Revenue](screenshots/sales_revenue.png)
+
+---
+
+### Customer Insights Dashboard
+![Customer Country](screenshots/customer_country.png)
+![Customer State](screenshots/customer_state.png)
+
+---
+
+### Shipping Performance Dashboard
+![Shipping Late](screenshots/shipping_late.png)
+![Shipping On Time](screenshots/shipping_ontime.png)
+
