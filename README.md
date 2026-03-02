@@ -58,6 +58,10 @@ All data cleaning and reshaping was done through Power Query Editor, before load
 
 📌 Data Modeling: Fact and Dimension Structure
 
+### Data Modeling (Star Schema)
+
+![Data Model](screenshots/Data_Modeling.png)
+
 The cleaned dataset was restructured into a star schema to improve performance and maintain clarity.
 It consists of a central Fact Table (Orders Data) that holds transactional metrics such as revenue, profit, quantity, discount, and shipping times. This fact table is connected to several dimension tables, including:
 
