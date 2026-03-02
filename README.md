@@ -203,5 +203,5 @@ The "Home Office" segment has the smallest share of orders and revenue. Similarl
 This short demo showcases dashboard interaction including filtering, KPI updates, and trend analysis.
 
 ▶️ Watch the demo here:
-[View Dashboard Demo]([PUT_YOUR_DRIVE_LINK_HERE](https://drive.google.com/file/d/10YQgm7gFZ8FE_N0oMg4p9yWanmObK2Lz/view?usp=drive_link))
+[View Dashboard Demo](https://drive.google.com/file/d/10YQgm7gFZ8FE_N0oMg4p9yWanmObK2Lz/view?usp=drive_link)
 
